@@ -1,2 +1,3 @@
 node_modules
 dataToSend.json.gz
+dataToSend.json*
