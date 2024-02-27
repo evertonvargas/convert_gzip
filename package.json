@@ -1,0 +1,15 @@
+{
+  "name": "gzip_converter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "zlib": "^1.0.5"
+  }
+}
